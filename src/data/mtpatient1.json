@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "given_name": "Jeanette",
+    "family_name": "Penddreth",
+    "email": "jpenddreth0@census.gov",
+    "gender": "Female",
+    "telecom_value": "tel:+1(781)821-3000",
+    "system": "phone",
+    "use": "home"
+},
+{
+    "value": "tel:+1(781)774-2152",
+    "system": "phone",
+    "use": "work"
+},
+{
+    "value": "mailto:jamie.bass@gmail.com",
+    "system": "other"
+},
+{
+    "gender": "female",
+    "birthDate": "1990-04-25",
+    "address": [{
+        "line": [
+            "85 Willow Ave"
+        ],
+        "city": "SOMERVILLE",
+        "state": "MA",
+        "postalCode": "02144",
+        "country": "US"
+    }]
+}
+]

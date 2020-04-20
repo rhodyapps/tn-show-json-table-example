@@ -1,8 +1,17 @@
 import React, { Component } from 'react'
 
 // import PostList from './posts/PostsList'
+// <PostList />
+
 // import StudentList from './students/StudentList'
-import RecipesList from './recipes/RecipesList'
+// <StudentList />
+
+ import RecipesList from './recipes/RecipesList'
+//<RecipesList />
+
+ // import MtPatientsList from './mtpatients/MtPatientsList'
+// <MtPatientsList />
+// 
 
 import './App.css'
 
