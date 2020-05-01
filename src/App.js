@@ -1,18 +1,18 @@
 import React, { Component } from 'react'
 
-// import PostList from './posts/PostsList'
+ import PostList from './posts/PostsList'
 // <PostList />
 
  //import StudentList from './students/StudentList'
 // <StudentList />
 
-// import RecipesList from './recipes/RecipesList'
-//<RecipesList />
+  import RecipesList from './recipes/RecipesList'
+// <RecipesList />
 
-import UsdaFoodList from './usdafood/UsdaFoodList'
+//import UsdaFoodList from './usdafood/UsdaFoodList'
 //<UsdaFoodList />
 
-  //import MtPatientsList from './mtpatients/MtPatientsList'
+ import MtPatientsList from './mtpatients/MtPatientsList'
 // <MtPatientsList />
 // 
 
@@ -24,7 +24,11 @@ class App extends Component {
   render () {
     return (
       <div className='App'>
-        <UsdaFoodList />
+        <RecipesList />
+       <MtPatientsList />
+
+       
+
       </div>
       
     )
