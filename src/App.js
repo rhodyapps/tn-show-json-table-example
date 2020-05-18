@@ -3,13 +3,13 @@ import React, { Component } from 'react'
  import PostList from './posts/PostsList'
 // <PostList />
 
- //import StudentList from './students/StudentList'
+ import StudentList from './students/StudentList'
 // <StudentList />
 
   import RecipesList from './recipes/RecipesList'
 // <RecipesList />
 
-//import UsdaFoodList from './usdafood/UsdaFoodList'
+import UsdaFoodList from './usdafood/UsdaFoodList'
 //<UsdaFoodList />
 
  import MtPatientsList from './mtpatients/MtPatientsList'
@@ -24,7 +24,10 @@ class App extends Component {
   render () {
     return (
       <div className='App'>
-        <RecipesList />
+        
+
+       <RecipesList />
+       <UsdaFoodList />
        <MtPatientsList />
 
        
